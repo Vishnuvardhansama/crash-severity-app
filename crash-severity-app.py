@@ -4,9 +4,9 @@ import joblib
 import numpy as np
 
 # Load model artifacts
-model = joblib.load("archive/logistic_regression_model.pkl")
-scaler = joblib.load("archive/minmax_scaler.pkl")
-features = joblib.load("archive/features.pkl")
+model = joblib.load("logistic_regression_model.pkl")
+scaler = joblib.load("minmax_scaler.pkl")
+features = joblib.load("features.pkl")
 
 st.title("Crash Severity Prediction")
 
