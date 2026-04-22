@@ -1,7 +1,7 @@
 Here is a suitable `README.md` for your Streamlit crash severity prediction app:
 
 ```markdown
-# Crash Severity Prediction App
+# Crash Severity Prediction Appliaction
 
 This Streamlit web application predicts whether a crash will be **severe (1)** or **not severe (0)** based on selected time-related features using a Logistic Regression model.
 
